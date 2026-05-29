@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Portrait Studio",
+  "description": "An interactive studio to design and explore classic dark cinematic street portraits and stylish hip-hop Chicago drill aesthetic portraits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
